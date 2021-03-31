@@ -4,8 +4,8 @@ import "./SafeMath.sol";
 import "./SafeMathInt.sol";
 
 contract RebaseToken {
-    string public name = "Rebase Token";
-    string public symbol = "RT";
+    string public name = "Tiyu";
+    string public symbol = "TIU";
     address owner_;
 
     using SafeMath for uint256;
