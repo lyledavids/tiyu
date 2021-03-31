@@ -1,5 +1,7 @@
 # tiyu
 
+Tiyu is a elastic supply/rebase token.
+
 Deployed on Polygon/Matic
 
 Contract Address
